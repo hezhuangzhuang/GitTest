@@ -1,0 +1,28 @@
+[33mtag v1.0[m
+Tagger: hw <790171314@qq.com>
+Date:   Wed May 24 11:05:00 2017 +0800
+
+version 1.0
+
+[33mcommit a583eba15252d3211caa3e7fae1e68d73a4f9e98[m
+Author: hw <790171314@qq.com>
+Date:   Wed May 10 09:10:55 2017 +0800
+
+    第二次测试修改文件提交
+
+[1mdiff --git a/app/src/main/java/com/zxwl/gittest/TestTwo.java b/app/src/main/java/com/zxwl/gittest/TestTwo.java[m
+[1mnew file mode 100644[m
+[1mindex 0000000..cff087a[m
+[1m--- /dev/null[m
+[1m+++ b/app/src/main/java/com/zxwl/gittest/TestTwo.java[m
+[36m@@ -0,0 +1,10 @@[m
+[32m+[m[32mpackage com.zxwl.gittest;[m
+[32m+[m
+[32m+[m[32m/**[m
+[32m+[m[32m * author：hw[m
+[32m+[m[32m * data:2017/5/10 09:10[m
+[32m+[m[32m * ClassName: ${FILE_NAME}[m
+[32m+[m[32m */[m
+[32m+[m
+[32m+[m[32mpublic class TestTwo {[m
+[32m+[m[32m}[m

@@ -7,5 +7,7 @@ package com.zxwl.gittest;
  */
 
 public class TestAdd {
-   
+    public void show(){
+
+    }
 }
